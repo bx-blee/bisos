@@ -1,0 +1,4 @@
+(bisos
+  :fetcher github
+  :repo "bx-blee/bisos"
+  :files ("*.el"))
