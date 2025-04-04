@@ -161,7 +161,7 @@ List of files specified in:
 ** Basic Usage:
 #+BEGIN_SRC emacs-lisp
 (bisos:aas:marmee:manage|fpParamGetWithName
-  (symbol-name '/bxo/iso/piu_mbFullUsage/aas/marmee/gmail/svcInstanceName/control/inMail/fp)
+  (symbol-name '/bxo/iso/piu_mbFullUsage/aas/marmee/gmail/svcInstanceName/control/inMail/fp/)
   (symbol-name 'AasInMail_FPs)
   (symbol-name 'userName)
  )
